@@ -21,7 +21,7 @@ Em cada pasta existe um README espicifico para cada parte da aplicação, para e
 
 ## O Projeto:
 
-- Web:
+### Web:
 
 <div align="center">
   <img alt="FastfeetPart1" title="FastfeetPart1" src="https://github.com/LucasSiqz/FastFeet-Web/blob/master/screen_shots/fastfeet-parte1.png" />
@@ -29,7 +29,7 @@ Em cada pasta existe um README espicifico para cada parte da aplicação, para e
   <img alt="FastfeetPart2" title="FastfeetPart2" src="https://github.com/LucasSiqz/FastFeet-Web/blob/master/screen_shots/fastfeet-part2.png" />
 </div>
 
-- Mobile:
+### Mobile:
 
 <div align="center">
   <img alt="FastfeetMobile" title="FastfeetMobile" src="https://github.com/LucasSiqz/FastFeet-Mobile/blob/master/screen_shots/FastFeetMobile.png" />
