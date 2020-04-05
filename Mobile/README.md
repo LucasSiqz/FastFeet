@@ -45,7 +45,7 @@ Execute:
 
 > \$ react-native run-android
 
-Em seguide execute:
+Em seguida execute:
 
 > \$ yarn start
 
