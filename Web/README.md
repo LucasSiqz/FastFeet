@@ -25,14 +25,6 @@ Esse repositório é referente a aplicação web do FastFeet desenvolvido em rea
 
 - É necessário que o [servidor](https://github.com/LucasSiqz/FastFeet-Backend) esteja rodando na porta 3333.
 
-Clone o repositorio:
-
-> \$ git clone https://github.com/LucasSiqz/FastFeet-Web.git
-
-Acesse a pasta:
-
-> \$ cd FastFeet-Web
-
 - É necessário ter yarn instalado
 
 Instale as dependências:
