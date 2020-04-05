@@ -17,7 +17,7 @@ O desenvolvimento foi feito em três repositorios diferentes que aqui foram agru
 - [Web](https://github.com/LucasSiqz/FastFeet-Web)
 - [Mobile](https://github.com/LucasSiqz/FastFeet-Mobile)
 
-Em cada pasta existe um README espicifico para cada parte da aplicação, para executar o projeto clone este repositorio, acesse cada pasta e siga as informações contidas em seus respectivos READMEs.
+**Em cada pasta existe um README espicifico para cada parte da aplicação, para executar o projeto clone este repositorio, acesse cada pasta e siga as informações contidas em seus respectivos READMEs.**
 
 ## O Projeto:
 
