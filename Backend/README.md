@@ -41,7 +41,11 @@ Esse repositório é referente ao backend do FastFeet desenvolvido em nodejs com
 - Para inicializar um perfil de admin execute:
   > \$ yarn sequelize db:seed:all
 
-4. Execute a aplicação com:
+4. Execute a fila para envio de emails:
+
+   > \$ yarn queue
+
+5. Execute a aplicação:
    > \$ yarn dev
 
 ---
