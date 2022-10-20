@@ -7,7 +7,7 @@
 
 ---
 
-## Descrição:
+## 📝 Descrição:
 
 Esse repositório é referente a minha solução do desafio do Bootcamp GoStack 10.0
 
@@ -19,9 +19,9 @@ O desenvolvimento foi feito em três repositorios diferentes que aqui foram agru
 
 **Em cada pasta existe um README especifico para cada parte da aplicação, para executar o projeto clone este repositorio, acesse cada pasta e siga as informações contidas em seus respectivos READMEs.**
 
-## O Projeto:
+## 🚛 O Projeto:
 
-### Web:
+### 🖥️ Web:
 
 <div align="center">
   <img alt="FastfeetPart1" title="FastfeetPart1" src="https://github.com/LucasSiqz/FastFeet-Web/blob/master/screen_shots/fastfeet-parte1.png" />
@@ -29,12 +29,12 @@ O desenvolvimento foi feito em três repositorios diferentes que aqui foram agru
   <img alt="FastfeetPart2" title="FastfeetPart2" src="https://github.com/LucasSiqz/FastFeet-Web/blob/master/screen_shots/fastfeet-part2.png" />
 </div>
 
-### Mobile:
+### 📱 Mobile:
 
 <div align="center">
   <img alt="FastfeetMobile" title="FastfeetMobile" src="https://github.com/LucasSiqz/FastFeet-Mobile/blob/master/screen_shots/FastFeetMobile.png" />
 </div>
 
-## Licença:
+## 📄 Licença:
 
 Esse projeto utiliza a licença MIT.
